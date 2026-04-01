@@ -40,4 +40,3 @@ This visualization explores the relationship between building size and acquisiti
 # Analysis
 
 [IS445_HW5.ipynb](https://github.com/xuyiw2/is445_HW5/blob/main/IS445_HW5.ipynb)
-
