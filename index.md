@@ -27,7 +27,7 @@ This visualization shows the distribution of buildings by their status. The x-ax
 vegaEmbed('#vis2', 'chart2.json');
 </script>
 
-This visualization explores the relationship between building size and acquisition year. The x-axis represents the year acquired, and the y-axis represents square footage. I used an interactive selection feature that allows users to highlight points, making it easier to explore patterns and trends over time. This improves the user’s ability to focus on specific subsets of the data.
+This visualization explores the relationship between building size and acquisition year. The x-axis represents the year acquired, and the y-axis represents square footage. I implemented an interactive brush selection that allows users to highlight subsets of the data. Additionally, tooltips provide detailed information such as agency name, location, and building size when hovering over points. This enhances user exploration and helps identify patterns over time.
 
 ---
 
