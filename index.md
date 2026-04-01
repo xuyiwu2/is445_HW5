@@ -15,7 +15,7 @@ title: HW5 Visualization
 vegaEmbed('#vis1', 'chart1.json');
 </script>
 
-This visualization shows the distribution of buildings by their primary usage. The x-axis represents different building usage categories, while the y-axis shows the count of buildings in each category. I used color encoding to distinguish between categories, which improves readability and allows easier comparison. The data was aggregated by counting the number of buildings in each category.
+This visualization shows the distribution of buildings by their status. The x-axis represents different building usage categories, while the y-axis shows the count of buildings in each category. I used color encoding to distinguish between categories, which improves readability and allows easier comparison. The data was aggregated by counting the number of buildings in each category.
 
 ---
 
