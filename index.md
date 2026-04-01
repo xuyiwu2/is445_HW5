@@ -12,7 +12,7 @@ title: HW5 Visualization
 <div id="vis1"></div>
 
 <script>
-vegaEmbed('#vis1', 'chart1.json');
+vegaEmbed('#vis1', 'chart1(1).json');
 </script>
 
 This visualization shows the distribution of buildings by their status. The x-axis represents different building usage categories, while the y-axis shows the count of buildings in each category. I used color encoding to distinguish between categories, which improves readability and allows easier comparison. The data was aggregated by counting the number of buildings in each category.
@@ -24,7 +24,7 @@ This visualization shows the distribution of buildings by their status. The x-ax
 <div id="vis2"></div>
 
 <script>
-vegaEmbed('#vis2', 'chart2.json');
+vegaEmbed('#vis2', 'chart2(1).json');
 </script>
 
 This visualization explores the relationship between building size and acquisition year. The x-axis represents the year acquired, and the y-axis represents square footage. I implemented an interactive brush selection that allows users to highlight subsets of the data. Additionally, tooltips provide detailed information such as agency name, location, and building size when hovering over points. This enhances user exploration and helps identify patterns over time.
